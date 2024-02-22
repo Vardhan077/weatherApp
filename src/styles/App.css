@@ -1,0 +1,17 @@
+@import '~normalize.css';
+@import url(https://fonts.googleapis.com/css?family=Montserrat:regular,500,700,900);
+
+body {
+	font-family: 'Montserrat';
+}
+
+.container {
+	max-width: 1300px;
+	margin: 0px auto;
+}
+
+.smthng{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}

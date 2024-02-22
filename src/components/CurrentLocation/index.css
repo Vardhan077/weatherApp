@@ -1,0 +1,11 @@
+.curContainer{
+    display: flex;
+    flex-direction: row;
+}
+
+.currentDesc{
+    margin-left: 17px;
+}
+.current{
+    margin-right: 5px;
+}
