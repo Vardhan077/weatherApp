@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/weatherApp/static/css/main.64d766b7.css",
+    "main.js": "/weatherApp/static/js/main.53ac8c74.js",
+    "static/js/453.97127cc3.chunk.js": "/weatherApp/static/js/453.97127cc3.chunk.js",
+    "static/media/weather-desc.png": "/weatherApp/static/media/weather-desc.6ac866ac9653bdf6bc92.png",
+    "static/media/pressure (1).png": "/weatherApp/static/media/pressure (1).11b0c25270b5bedd58e4.png",
+    "static/media/wind (1).png": "/weatherApp/static/media/wind (1).639516cceb13a7a9b5c9.png",
+    "static/media/thermometer.png": "/weatherApp/static/media/thermometer.b66904850476d9d0a4ca.png",
+    "static/media/sun.png": "/weatherApp/static/media/sun.d07c9ecea0ad9094855a.png",
+    "static/media/humidity.png": "/weatherApp/static/media/humidity.da5fa89930d7bc317866.png",
+    "static/media/haze.png": "/weatherApp/static/media/haze.112f555facfd1ceebd0c.png",
+    "static/media/clouds.png": "/weatherApp/static/media/clouds.058d1121e95348721a5e.png",
+    "static/media/mist.png": "/weatherApp/static/media/mist.bec995ef50f9dab24180.png",
+    "static/media/snow.png": "/weatherApp/static/media/snow.c8ed556c8e144314a339.png",
+    "static/media/drizzle.png": "/weatherApp/static/media/drizzle.586dab4fa773ec5fbaaf.png",
+    "static/media/logo.svg": "/weatherApp/static/media/logo.c0c93d70f43f81bda0e10710b621c6c5.svg",
+    "index.html": "/weatherApp/index.html",
+    "main.64d766b7.css.map": "/weatherApp/static/css/main.64d766b7.css.map",
+    "main.53ac8c74.js.map": "/weatherApp/static/js/main.53ac8c74.js.map",
+    "453.97127cc3.chunk.js.map": "/weatherApp/static/js/453.97127cc3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64d766b7.css",
+    "static/js/main.53ac8c74.js"
+  ]
+}
